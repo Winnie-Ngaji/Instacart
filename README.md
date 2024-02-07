@@ -4,5 +4,5 @@
 ---
 ## by Winnie Ngaji
 ---
-!images/instacart_logo.png
+![](images/instacart_logo.png)   
 ---
