@@ -40,6 +40,19 @@ Using PostgreSQL, I carefully crafted a robust database schema to ensure optimal
 ![](images/Instacart_data_model.png)     
 
 # DATA ANALYSIS AND VISUALIZATION
+I will leverage this database to address and resolve key business challenges that the organization is keen on understanding and solving. By harnessing the power of the structured data and relationships established through PostgreSQL, I aim to provide insightful solutions that contribute to informed decision-making and strategic advancements within the business.
 
+# BUSINESS QUESTIONS
+* Q1 What are the top-selling products by revenue, and how much revenue have they generated?
+
+* Q2 Which aisles have the highest sales volume?
+* Q3 Which 3 departments generated the most profit in 2019?
+* Q4 Which product generated the most profit as of Easter of 2022?
+* Q5 Which year did Instacart generate the most profit?
+* Q6 What are the top 5 products that generated the most revenue from Xmas 2022 till 2nd of January 2023 and their profits?
+* Q7 What time of the day has the highest order volume during the entire Covid Period?
+* Q8 What is the total revenue generated in Qtr. 2 & 3 of 2016?
+* Q9 Which 3 products do people buy at night(2020 - 2022)?
+* Q10 What is the total revenue generated from juice products?
 
 
