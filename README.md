@@ -32,4 +32,4 @@ I will be using the provided dataset to understand Instacart's operational perfo
 I used advanced SQL functions to import the dataset into PostgreSQL and did some analysis to query the database
 
 # DATA MODELLING
-After meticulously cleaning and transforming data in Excel, I proceeded to organize and import the dataset into PostgreSQL for thorough analysis. Employing SQL queries, I extracted pertinent information from the Northwind Traders database, delving into a comprehensive analysis.
+Using PostgreSQL, I carefully crafted a robust database schema to ensure optimal organization and efficiency. I defined tables, established relationships, and implemented constraints to maintain data integrity.
