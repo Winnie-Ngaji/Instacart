@@ -33,11 +33,11 @@ I used advanced SQL functions to import the dataset into PostgreSQL and did some
 
 # DATA MODELLING
 Using PostgreSQL, I carefully crafted a robust database schema to ensure optimal organization and efficiency. I defined tables, established relationships, and implemented constraints to maintain data integrity.
-![]images/creating_tables.png   
+![](images/creating_tables.png)      
 
 ---
 ### DATA MODEL
-![]images/Instacart_data_model.png   
+![](images/Instacart_data_model.png)     
 
 # DATA ANALYSIS AND VISUALIZATION
 
