@@ -47,42 +47,42 @@ I will leverage this database to address and resolve key business challenges tha
 ### QUERY
 ![](images/q1_query.png)   
 ### RESULT
-![](images/q1_result.png)   
+![](images/q1_result.PNG)   
 INSIGHT::: The top-selling product is Vanilla, Tangerine & Shortbread Ice Cream with a total revenue of $11,184
 
 * Q2 Which aisles have the highest sales volume?
 ### QUERY
 ![](images/q2_query.png)   
 ### RESULT
-![](images/q1_result.png)   
+![](images/q1_result.PNG)   
 INSIGHT::: The "missing" aisle has the highest sales volume with about 147,708 products sold
 
 * Q3 Which 3 departments generated the most profit in 2019?
 ### QUERY
 ![](images/q3_query.png)   
 ### RESULT
-![](images/q3_result.png)   
+![](images/q3_result.PNG)   
 INSIGHT::: The top 3 departments were "Personal Care, snacks and Pantry" and they generated profits of $255,428.70, $244,086.40 and $207,408.90 respectively.
 
 * Q4 Which product generated the most profit as of Easter of 2022?
 ### QUERY
 ![](images/q4_query.png)   
 ### RESULT
-![](images/q4_result.png)   
+![](images/q4_result.PNG)   
 INSIGHT::: The product that generated the most profit during the easter period of 2022 was "Chocolate Chip Mini Cookies" with a profit of $79.90.
 
 * Q5 Which year did Instacart generate the most profit?
 ### QUERY
 ![](images/q5_query.png)   
 ### RESULT
-![](images/q5_result.png)   
+![](images/q5_result.PNG)   
 INSIGHT::: The business generated $1,928,129 as profit in 2020
 
 * Q6 What are the top 5 products that generated the most revenue from Xmas 2022 till 2nd of January 2023 and their profits?
 ### QUERY
 ![](images/q6_query.png)   
 ### RESULT
-![](images/q6_result.png)   
+![](images/q6_result.PNG)   
 INSIGHT::: The product that generated the most profit during the easter period of 2022 was "Chocolate Chip Mini Cookies" with a profit of $79.90.
 
 * Q7 What time of the day has the highest order volume during the entire Covid Period?
