@@ -37,6 +37,9 @@ Using PostgreSQL, I carefully crafted a robust database schema to ensure optimal
 
 ---
 ### DATA MODEL
-![]
+![]images/Instacart_data_model.png   
+
+# DATA ANALYSIS AND VISUALIZATION
+
 
 
