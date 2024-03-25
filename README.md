@@ -104,7 +104,7 @@ INSIGHT::: The business generated the most profit of $1,928,129 in 2020
 ![](images/q9_query.png)          
 ### RESULT
 ![](images/q9_result.PNG)      
-**INSIGHT:::** The 3 products people buy at night from 200 - 2022 were 
+**INSIGHT:::** The 3 products people bought at night from 200 - 2022 were Ground Sumatra Deepp Roast, Brie & Raspberry Bake & Serve Fills Rolls, and Organic Braggberry
 
 * ## Q10 What is the total revenue generated from juice products?
 ### QUERY
