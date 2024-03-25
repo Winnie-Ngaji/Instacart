@@ -43,75 +43,75 @@ I carefully crafted a robust database schema using PostgreSQL to ensure optimal 
 I will leverage this database to address and resolve key business challenges that the organization is keen on understanding and solving. By harnessing the power of the structured data and relationships established through PostgreSQL, I aim to provide insightful solutions that contribute to informed decision-making and strategic advancements within the business.
 
 # BUSINESS QUESTIONS
-* Q1 What are the top-selling products by revenue, and how much revenue have they generated?
+* ### Q1 What are the top-selling products by revenue, and how much revenue have they generated?
 ### QUERY
 ![](images/q1_query.png)   
 ### RESULT
 ![](images/q1_result.PNG)   
-INSIGHT::: The top-selling product is Vanilla, Tangerine & Shortbread Ice Cream with a total revenue of $11,184
+**INSIGHT:::** The top-selling product is Vanilla, Tangerine & Shortbread Ice Cream with a total revenue of $11,184
 
-* Q2 Which aisles have the highest sales volume?
+* ### Q2 Which aisles have the highest sales volume?
 ### QUERY
 ![](images/q2_query.png)   
 ### RESULT
 ![](images/q1_result.PNG)   
-INSIGHT::: The "missing" aisle has the highest sales volume with about 147,708 products sold
+**INSIGHT:::** The "missing" aisle has the highest sales volume with about 147,708 products sold
 
-* Q3 Which 3 departments generated the most profit in 2019?
+* ###  Q3 Which 3 departments generated the most profit in 2019?
 ### QUERY
 ![](images/q3_query.png)   
 ### RESULT
 ![](images/q3_result.PNG)   
-INSIGHT::: The top 3 departments were "Personal Care, snacks and Pantry" and they generated profits of $255,428.70, $244,086.40 and $207,408.90 respectively.
+**INSIGHT:::** The top 3 departments were "Personal Care, snacks and Pantry" and they generated profits of $255,428.70, $244,086.40 and $207,408.90 respectively.
 
-* Q4 Which product generated the most profit as of Easter of 2022?
+* ### Q4 Which product generated the most profit as of Easter of 2022?
 ### QUERY
 ![](images/q4_query.png)   
 ### RESULT
 ![](images/q4_result.PNG)   
-INSIGHT::: The product that generated the most profit during the easter period of 2022 was "Chocolate Chip Mini Cookies" with a profit of $79.90.
+**INSIGHT:::** The product that generated the most profit during the easter period of 2022 was "Chocolate Chip Mini Cookies" with a profit of $79.90.
 
-* Q5 Which year did Instacart generate the most profit?
+* ### Q5 Which year did Instacart generate the most profit?
 ### QUERY
 ![](images/q5_query.png)   
 ### RESULT
 ![](images/q5_result.PNG)   
 INSIGHT::: The business generated the most profit of $1,928,129 in 2020
 
-* Q6 What are the top 5 products that generated the most revenue from Xmas 2022 till 2nd of January 2023 and their profits?
+* ### Q6 What are the top 5 products that generated the most revenue from Xmas 2022 till 2nd of January 2023 and their profits?
 ### QUERY
 ![](images/q6_query.png)   
 ### RESULT
 ![](images/q6_result.PNG)   
-INSIGHT::: The product that generated the most profit during the easter period of 2022 was "Chocolate Chip Mini Cookies" with a profit of $79.90.
+**INSIGHT:::** The product that generated the most profit during the easter period of 2022 was "Chocolate Chip Mini Cookies" with a profit of $79.90.
 
-* Q7 What time of the day has the highest order volume during the entire Covid Period?
+* ### Q7 What time of the day has the highest order volume during the entire COVID period?
 ### QUERY
 ![](images/q7_query.png)   
 ### RESULT
 ![](images/q7_result.PNG)   
-INSIGHT::: The 
+**INSIGHT:::** 3 pm had the highest order volume of 14,153
 
-* Q8 What is the total revenue generated in Qtr. 2 & 3 of 2016?
+* ## Q8 What is the total revenue generated in Qtr. 2 & 3 of 2016?
 ### QUERY
 ![](images/q8_query.png)   
 ### RESULT
 ![](images/q8_result.PNG)   
-INSIGHT::: The
+**INSIGHT:::** Qtr. 2 & 3 of 2016 generated a total of $9,555,387 in Revenue
 
-* Q9 Which 3 products do people buy at night(2020 - 2022)?
+* ## Q9 Which 3 products do people buy at night(2020 - 2022)?
 ### QUERY
 ![](images/q9_query.png)   
 ### RESULT
 ![](images/q9_result.PNG)   
-INSIGHT::: The
+**INSIGHT:::** 
 
-* Q10 What is the total revenue generated from juice products?
+* ## Q10 What is the total revenue generated from juice products?
 ### QUERY
 ![](images/q10_query.png)   
 ### RESULT
 ![](images/q10_result.PNG)  
-INSIGHT::: 
+**INSIGHT:::**
 
 ---
 # RECOMMENDATION AND CONCLUSION
