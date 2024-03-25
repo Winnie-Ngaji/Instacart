@@ -99,6 +99,13 @@ INSIGHT::: The business generated the most profit of $1,928,129 in 2020
 ![](images/q8_result.PNG)   
 **INSIGHT:::** Qtr. 2 & 3 of 2016 generated a total of $9,555,387 in Revenue
 
+* ## Q9 Which 3 products do people buy at night(2020 - 2022)?
+### QUERY
+![](images/q9_query.png)       
+### RESULT
+![](images/q9_result.PNG)    
+**INSIGHT:::** The 3 products people buy at night from 200 - 2022 were 
+
 * ## Q10 What is the total revenue generated from juice products?
 ### QUERY
 ![](images/q10_query.png)   
