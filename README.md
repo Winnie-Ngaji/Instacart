@@ -10,11 +10,11 @@
 ---
 Instacart is an American delivery company specialising in grocery delivery and pick-up services, catering to customers in the United States and Canada. The company facilitates seamless access to its services by utilizing both a website and a mobile app. Customers can place orders for groceries from various participating retailers, with the actual shopping conducted by a dedicated personal shopper.
 
-The goal of this project is to conduct a comprehensive analysis of Instacart's business data through SQL queries, aiming to provide actionable insights and answers to key business questions. 
+This project aims to conduct a comprehensive analysis of Instacart's business data through SQL queries, aiming to provide actionable insights and answers to key business questions. 
 
 ---
 # PROJECT OBJECTIVE
-I will be using the provided dataset to understand Instacart's operational performance, customer preferences, and overall financial success over various periods and product categories. Specifically, I aim to answer the following business questions:
+I will use the provided dataset to understand Instacart's operational performance, customer preferences, and overall financial success over various periods and product categories. Specifically, I aim to answer the following business questions:
 
 * Q1 What are the top-selling products by revenue, and how much revenue have they generated?
 * Q2 Which aisles have the highest sales volume?
@@ -32,7 +32,7 @@ I will be using the provided dataset to understand Instacart's operational perfo
 I used advanced SQL functions to import the dataset into PostgreSQL and did some analysis to query the database
 
 # DATA MODELLING
-Using PostgreSQL, I carefully crafted a robust database schema to ensure optimal organization and efficiency. I defined tables, established relationships, and implemented constraints to maintain data integrity.
+I carefully crafted a robust database schema using PostgreSQL to ensure optimal organization and efficiency. I defined tables, established relationships, and implemented constraints to maintain data integrity.
 ![](images/creating_tables.png)      
 
 ---
@@ -76,7 +76,7 @@ INSIGHT::: The product that generated the most profit during the easter period o
 ![](images/q5_query.png)   
 ### RESULT
 ![](images/q5_result.PNG)   
-INSIGHT::: The business generated $1,928,129 as profit in 2020
+INSIGHT::: The business generated the most profit of $1,928,129 in 2020
 
 * Q6 What are the top 5 products that generated the most revenue from Xmas 2022 till 2nd of January 2023 and their profits?
 ### QUERY
@@ -86,9 +86,33 @@ INSIGHT::: The business generated $1,928,129 as profit in 2020
 INSIGHT::: The product that generated the most profit during the easter period of 2022 was "Chocolate Chip Mini Cookies" with a profit of $79.90.
 
 * Q7 What time of the day has the highest order volume during the entire Covid Period?
+### QUERY
+![](images/q7_query.png)   
+### RESULT
+![](images/q7_result.PNG)   
+INSIGHT::: The 
+
 * Q8 What is the total revenue generated in Qtr. 2 & 3 of 2016?
+### QUERY
+![](images/q8_query.png)   
+### RESULT
+![](images/q8_result.PNG)   
+INSIGHT::: The
+
 * Q9 Which 3 products do people buy at night(2020 - 2022)?
+### QUERY
+![](images/q9_query.png)   
+### RESULT
+![](images/q9_result.PNG)   
+INSIGHT::: The
+
 * Q10 What is the total revenue generated from juice products?
+### QUERY
+![](images/q10_query.png)   
+### RESULT
+![](images/q10_result.PNG)  
+INSIGHT::: 
+
 ---
 # RECOMMENDATION AND CONCLUSION
 
