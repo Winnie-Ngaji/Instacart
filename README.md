@@ -111,7 +111,7 @@ INSIGHT::: The business generated the most profit of $1,928,129 in 2020
 ![](images/q10_query.png)   
 ### RESULT
 ![](images/q10_result.PNG)  
-**INSIGHT:::**
+**INSIGHT:::** A total of $3,077,822 was generated from juice products
 
 ---
 # RECOMMENDATION AND CONCLUSION
