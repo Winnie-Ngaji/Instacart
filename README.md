@@ -101,7 +101,7 @@ INSIGHT::: The business generated the most profit of $1,928,129 in 2020
 
 * ## Q9 Which 3 products do people buy at night(2020 - 2022)?
 ### QUERY
-![](images/q9_query.png)      
+![](images/q9_query.png)       
 ### RESULT
 ![](images/q9_result.PNG)    
 **INSIGHT:::** The 3 products people buy at night from 200 - 2022 were 
