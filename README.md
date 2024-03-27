@@ -54,7 +54,7 @@ I will leverage this database to address and resolve key business challenges tha
 ### QUERY
 ![](images/q2_query.png)   
 ### RESULT
-![](images/q1_result.PNG)   
+![](images/q2_result.PNG)   
 **INSIGHT:::** The "missing" aisle has the highest sales volume with about 147,708 products sold
 
 * ###  Q3 Which 3 departments generated the most profit in 2019?
