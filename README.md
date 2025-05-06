@@ -89,7 +89,8 @@ INSIGHT::: The business generated the most profit of $1,928,129 in 2020
 ![](images/q6_query.png)   
 ### RESULT
 ![](images/q6_result.PNG)   
-**INSIGHT:::** The product that generated the most profit during the easter period of 2022 was "Chocolate Chip Mini Cookies" with a profit of $79.90.
+**INSIGHT:::** The top 5 revenue-generating products during the Christmas 2022 to January 2, 2023 period were:
+Smokestack Mixed Flour, 2% Milk Cheese Singles, Organic Chunky Vegetable Soup, Jammers Grape Juice Drinks and Clinical + Sport Strength Deodorant
 
 * ### Q7 What time of the day has the highest order volume during the entire COVID period?
 ### QUERY
