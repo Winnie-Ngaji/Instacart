@@ -1,8 +1,6 @@
-# Instacart
+# Instacart Sales Analysis
 ---
-# Sales Analysis
----
-## by Winnie Ngaji
+### by Winnie Ngaji
 ---
 ![](images/instacart_logo.png)   
 ---
@@ -26,6 +24,14 @@ I will use the provided dataset to understand Instacart's operational performanc
 * Q8 What is the total revenue generated in Qtr. 2 & 3 of 2016?
 * Q9 Which 3 products do people buy at night(2020 - 2022)?
 * Q10 What is the total revenue generated from juice products?
+
+---
+# TECHNOLOGIES USED
+- PostgreSQL
+- SQL (advanced queries, joins, aggregations)
+- pgAdmin (or mention your SQL IDE)
+- Data cleaning and modelling
+- Git & GitHub for version control
 
 ---
 # SKILLS DEMONSTRATED
@@ -104,7 +110,7 @@ INSIGHT::: The business generated the most profit of $1,928,129 in 2020
 ![](images/q9_query.png)          
 ### RESULT
 ![](images/q9_result.PNG)      
-**INSIGHT:::** The 3 products people bought at night from 200 - 2022 were Ground Sumatra Deepp Roast, Brie & Raspberry Bake & Serve Fills Rolls, and Organic Braggberry
+**INSIGHT:::** The 3 products people bought at night from 2020 - 2022 were Ground Sumatra Deep Roast, Brie & Raspberry Bake & Serve Filled Rolls, and Organic Braggberry
 
 * ## Q10 What is the total revenue generated from juice products?
 ### QUERY
