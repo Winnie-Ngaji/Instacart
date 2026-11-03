@@ -29,7 +29,7 @@ I will use the provided dataset to understand Instacart's operational performanc
 # TECHNOLOGIES USED
 - PostgreSQL
 - SQL (advanced queries, joins, aggregations)
-- pgAdmin (or mention your SQL IDE)
+- pgAdmin
 - Data cleaning and modelling
 - Git & GitHub for version control
 
